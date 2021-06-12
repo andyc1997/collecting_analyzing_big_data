@@ -1,2 +1,3 @@
-# collecting_analyzing_big_data
-A repo created for the course "Collecting and Analyzing Big Data"
+### Installation
+
+`git clone https://github.com/andyc1997/collecting_analyzing_big_data.git`
