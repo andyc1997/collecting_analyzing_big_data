@@ -1,5 +1,7 @@
 ## Installation
 
+*Please download and open the jupyter notebook because html font tags cannot be displayed properly in Github.*
+
 Shell command:
 
 `git clone https://github.com/andyc1997/collecting_analyzing_big_data.git`
