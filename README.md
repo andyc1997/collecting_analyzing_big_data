@@ -18,6 +18,8 @@ Shell command:
 
 4. Topic modeling and Text classification using *gensim* and *scikit-learn* framework. Both unigram and bigram are considered in topic modeling. For ordinal classification, we use [*mord*](https://pythonhosted.org/mord/) to fit ordianl logistic regression model with regularization. It is a library in python focusing on ordianl data. 
 
+---
+
 ## Data source
 
 Source webpage: [https://www.whatuni.com/](https://www.whatuni.com/) 
